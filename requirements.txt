@@ -9,4 +9,4 @@ joblib
 omegaconf
 opencv-python
 tensorflow
-torchne
+torchnet
