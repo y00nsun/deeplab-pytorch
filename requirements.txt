@@ -10,4 +10,4 @@ omegaconf
 opencv-python
 tensorflow
 torchnet
--c conda-forge pydensecrf
+pydensecrf
