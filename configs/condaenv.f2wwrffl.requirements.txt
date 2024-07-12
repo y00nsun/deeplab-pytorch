@@ -1,0 +1,7 @@
+addict
+black
+joblib
+omegaconf
+opencv-python
+tensorflow
+torchnet

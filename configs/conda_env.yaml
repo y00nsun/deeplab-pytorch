@@ -4,7 +4,7 @@ dependencies:
   - conda-forge::pydensecrf
   - cudatoolkit=10.2
   - matplotlib
-  - python=3.6
+  - python=3.9
   - pytorch::pytorch>1.2.0
   - pytorch::torchvision
   - pyyaml
